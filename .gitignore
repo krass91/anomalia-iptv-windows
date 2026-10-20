@@ -1,0 +1,10 @@
+﻿analysis/
+evidence/
+vendor/
+build/
+release/
+*.exe
+*.dll
+*.pdb
+Anomalia IPTV Data/
+
